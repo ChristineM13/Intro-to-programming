@@ -1,0 +1,15 @@
+1. mkdir <directory_name> (make directory). Creates a folder
+
+2. cd <directory_name> (change directory). Changes the current directory to specified one
+
+3. code <file_name>. creates a file and opens it in a text editor
+
+4. ls (list). shows list of folders in directory
+
+5. pwd (print working directory). shows the path of the current directory
+
+6. clear - clears the terminal window.
+
+7. gcc - <file_name (c source code)> - compile the program
+
+8. ./<executable_file> - runs the program.

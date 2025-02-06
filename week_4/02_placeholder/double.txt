@@ -1,0 +1,9 @@
+double allows fractions
+use %f as conversion specifier
+
+int main (void) {
+    double <function>
+}
+
+for char letter ='A'
+%c
